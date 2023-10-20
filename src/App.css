@@ -1,0 +1,90 @@
+.range_slider {
+  padding: 36px 13px;
+  display: flex;
+  align-items: center;
+}
+
+.select_range {
+  width: 15%;
+  text-align: center;
+  margin: 0 40px;
+}
+
+.range {
+  width: 90%;
+}
+
+.select_typography {
+  display: flex;
+}
+
+.select_typography>div {
+  width: 50%;
+}
+
+
+.typography, .setting, .color_picker {
+  padding: 34px 13px;
+  border-top: 1px solid #D1D1D1;
+}
+
+.typography h1, .color_picker h1 {
+  margin-bottom: 22px;
+}
+
+.subtitle_one,
+.title_two,
+.subtitle_two,
+.title_one, .border_down>div, .border_up>div {
+  width: 40%;
+}
+.Polaris-Labelled__LabelWrapper {
+  margin-bottom: 12px;
+}
+.subtitle_one, .subtitle_two, .icon_color, .subtitle_color {
+  margin-top: 22px;
+} 
+.setting {
+
+}
+.border {
+  display: flex;
+  padding: 22px 13px 0 13px;
+}
+.border>div {
+  width: 50%;
+}
+h5 {
+  font-weight: 600;
+}
+.page_polaris {
+  display: flex;
+}
+.preview {
+  margin-left: 50px;
+  text-align: center;
+  margin-top: 110px ;
+}
+.Polaris-Tabs__Wrapper {
+  padding: 0 12px;
+}
+.preview_heading {
+  padding: 20px 0;
+}
+.preview_data {
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+.Polaris-Thumbnail > * {
+  padding: 15px;
+}
+.color_head {
+  margin-bottom: 15px;
+}
+.color_box {
+  background-color: #D9D9D9;
+  height: 50px;
+  width: 50px;
+  border-radius: 8px;
+}
